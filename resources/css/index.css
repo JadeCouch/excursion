@@ -5,8 +5,11 @@ body {
   background-color: black;
 }
 
-h1 {
+h1, h3 {
   font-weight: normal;
+}
+
+h1 {
   font-size: 50px;
 }
 
@@ -18,7 +21,6 @@ h2 {
 h3 {
   color: gray;
   font-size: 21px;
-  font-weight: normal;
 }
 
 .downloadlink {
